@@ -1,2 +1,2 @@
 # Project: using classification algorithms to predict heart failure
-The project deliverable is Report.pdf
+The project deliverable is CLS_Report.pdf
